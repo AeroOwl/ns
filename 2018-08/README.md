@@ -5,4 +5,5 @@ Further work:
 * https://github.com/LeonardoNve/sslstrip2  
 * https://github.com/nabla-c0d3/sslyze  
 * https://github.com/WestpointLtd/tls_prober  
-* https://github.com/salesforce/ja3  
+* https://github.com/salesforce/ja3 
+* https://github.com/tomato42/tlsfuzzer
